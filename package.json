@@ -1,0 +1,23 @@
+{
+  "name": "angular-agora-rtc-anc",
+  "version": "0.0.3",
+  "homepage": "https://github.com/techancubate/Angular-Agora-RTC-ANC#readme",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "dependencies": {
+    "agora-rtc-sdk": "^3.5.2",
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/angular-agora-rtc.umd.js",
+  "module": "fesm5/angular-agora-rtc.js",
+  "es2015": "fesm2015/angular-agora-rtc.js",
+  "esm5": "esm5/angular-agora-rtc.js",
+  "esm2015": "esm2015/angular-agora-rtc.js",
+  "fesm5": "fesm5/angular-agora-rtc.js",
+  "fesm2015": "fesm2015/angular-agora-rtc.js",
+  "typings": "angular-agora-rtc.d.ts",
+  "metadata": "angular-agora-rtc.metadata.json",
+  "sideEffects": false
+}
