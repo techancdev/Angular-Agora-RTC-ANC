@@ -1,13 +1,13 @@
 {
   "name": "angular-agora-rtc-anc",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "https://github.com/techancubate/Angular-Agora-RTC-ANC#readme",
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0 || ~9.1.12",
     "@angular/core": "^6.0.0-rc.0 || ^6.0.0 || ~9.1.12"
   },
   "dependencies": {
-    "agora-rtc-sdk": "^3.5.2",
+    "agora-rtc-sdk": "^3.6.10",
     "tslib": "^1.9.0"
   },
   "main": "bundles/angular-agora-rtc.umd.js",
